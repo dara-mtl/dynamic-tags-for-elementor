@@ -1,0 +1,388 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-12 19:20+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: inc/classes/class-bdt-dynamic-group.php:156
+msgid "Dynamic Group"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:167
+#: inc/classes/class-bdt-dynamic-group.php:200
+msgid "Content"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:174
+msgid "Dynamic Tag"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:188
+msgid "Advanced"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:195
+msgid "Dynamic Field Output"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:201 tags/author-meta.php:120
+#: tags/user-meta.php:120
+msgid "ID"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:202
+msgid "Class"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:203
+msgid "Data Attribute"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:214
+msgid ""
+"Set custom attributes for the wrapper element. Each attribute in a separate "
+"line. Separate attribute key from the value using Key|Value."
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:225
+msgid "HTML Target"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:229
+msgid "(Optional) Specify a part of the widget’s HTML to replace."
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-group.php:243
+msgid "Repeater List"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-tag.php:72
+msgid "Custom Dynamic Tags"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-tag.php:73 tags/custom-field.php:121
+#: tags/repeater.php:121
+msgid "Post"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-tag.php:74 tags/custom-field.php:124
+#: tags/repeater.php:124
+msgid "Author"
+msgstr ""
+
+#: inc/classes/class-bdt-dynamic-tag.php:75 tags/custom-field.php:123
+#: tags/repeater.php:123
+msgid "User"
+msgstr ""
+
+#: inc/classes/class-bdt-helper.php:41
+msgid "No taxonomies found"
+msgstr ""
+
+#: inc/classes/class-bdt-helper.php:118
+msgid "Select a Form"
+msgstr ""
+
+#: inc/classes/class-bdt-helper.php:125
+msgid "Create a Form First"
+msgstr ""
+
+#: inc/classes/class-bdt-helper.php:205 inc/classes/class-bdt-helper.php:232
+#: inc/classes/class-bdt-helper.php:256 tags/pages-url.php:100
+msgid "Select..."
+msgstr ""
+
+#: inc/classes/class-bdt-helper.php:448
+msgid "None"
+msgstr ""
+
+#: tags/author-meta.php:53
+msgid "Author Info"
+msgstr ""
+
+#: tags/author-meta.php:115 tags/user-meta.php:115
+msgid "Field"
+msgstr ""
+
+#: tags/author-meta.php:119 tags/user-meta.php:119
+msgid "Display Name"
+msgstr ""
+
+#: tags/author-meta.php:121 tags/user-meta.php:121
+msgid "Bio"
+msgstr ""
+
+#: tags/author-meta.php:122 tags/user-meta.php:122
+msgid "Email"
+msgstr ""
+
+#: tags/author-meta.php:123 tags/user-meta.php:123
+msgid "Website"
+msgstr ""
+
+#: tags/author-meta.php:124 tags/user-meta.php:125
+msgid "Profile URL"
+msgstr ""
+
+#: tags/author-meta.php:125
+msgid "Author Meta"
+msgstr ""
+
+#: tags/author-meta.php:133 tags/custom-field.php:189 tags/user-meta.php:134
+msgid "Meta Key"
+msgstr ""
+
+#: tags/custom-field.php:50
+msgid "Custom Field"
+msgstr ""
+
+#: tags/custom-field.php:117 tags/repeater.php:117
+msgid "Field Source"
+msgstr ""
+
+#: tags/custom-field.php:122 tags/post-terms.php:114 tags/repeater.php:122
+msgid "Taxonomy"
+msgstr ""
+
+#: tags/custom-field.php:125
+msgid "Theme Option"
+msgstr ""
+
+#: tags/custom-field.php:133
+msgid "Option Key"
+msgstr ""
+
+#: tags/custom-field.php:144 tags/repeater.php:144
+msgid "Post ID"
+msgstr ""
+
+#: tags/custom-field.php:146 tags/repeater.php:146
+msgid "Current Post ID"
+msgstr ""
+
+#: tags/custom-field.php:159 tags/repeater.php:156
+msgid "Term ID"
+msgstr ""
+
+#: tags/custom-field.php:161 tags/repeater.php:158
+msgid "Current Term ID"
+msgstr ""
+
+#: tags/custom-field.php:174 tags/repeater.php:168 tags/user-meta.php:145
+msgid "User ID"
+msgstr ""
+
+#: tags/custom-field.php:176 tags/repeater.php:170 tags/user-meta.php:147
+msgid "Current User ID"
+msgstr ""
+
+#: tags/custom-field.php:197
+msgid "Add Paragraphs"
+msgstr ""
+
+#: tags/custom-field.php:199 tags/post-terms.php:147 tags/post-terms.php:158
+msgid "Yes"
+msgstr ""
+
+#: tags/custom-field.php:200 tags/post-terms.php:148 tags/post-terms.php:159
+msgid "No"
+msgstr ""
+
+#: tags/pages-url.php:53 tags/pages-url.php:143
+msgid "Pages URL"
+msgstr ""
+
+#: tags/pages-url.php:110
+msgid "Home Page"
+msgstr ""
+
+#: tags/post-content.php:42
+msgid "Post Content"
+msgstr ""
+
+#: tags/post-content.php:72
+msgid "Content Length"
+msgstr ""
+
+#: tags/post-content.php:100
+msgid ""
+"This is the post content. The full content will only display on the live "
+"page."
+msgstr ""
+
+#: tags/post-date.php:41
+msgid "Post Date"
+msgstr ""
+
+#: tags/post-excerpt.php:53
+msgid "Post Excerpt"
+msgstr ""
+
+#: tags/post-excerpt.php:122
+msgid "Excerpt Length"
+msgstr ""
+
+#: tags/post-featured-image.php:81
+msgid "Featured Image"
+msgstr ""
+
+#: tags/post-featured-image.php:123
+msgid "Fallback"
+msgstr ""
+
+#: tags/post-terms.php:54
+msgid "Post Terms"
+msgstr ""
+
+#: tags/post-terms.php:124
+msgid "Separator"
+msgstr ""
+
+#: tags/post-terms.php:133
+msgid "Max. Terms"
+msgstr ""
+
+#: tags/post-terms.php:144
+msgid "Parent Terms Only"
+msgstr ""
+
+#: tags/post-terms.php:155
+msgid "Link"
+msgstr ""
+
+#: tags/post-title.php:51
+msgid "Post Title"
+msgstr ""
+
+#: tags/post-title.php:94
+msgid "Title Length"
+msgstr ""
+
+#: tags/post-url.php:52
+msgid "Post URL"
+msgstr ""
+
+#: tags/repeater.php:54
+msgid "Repeater"
+msgstr ""
+
+#: tags/repeater.php:125
+msgid "Theme Options"
+msgstr ""
+
+#: tags/repeater.php:133
+msgid "Theme Option Key"
+msgstr ""
+
+#: tags/repeater.php:180
+msgid "Parent Key"
+msgstr ""
+
+#: tags/repeater.php:188
+msgid "Child Key 1"
+msgstr ""
+
+#: tags/repeater.php:200
+msgid "Child Key 2"
+msgstr ""
+
+#: tags/repeater.php:212
+msgid "Child Key 3"
+msgstr ""
+
+#: tags/repeater.php:224
+msgid "Child Key 4"
+msgstr ""
+
+#: tags/repeater.php:236
+msgid "HTML Tag"
+msgstr ""
+
+#: tags/repeater.php:240
+msgid "No Tag"
+msgstr ""
+
+#: tags/repeater.php:241 tags/repeater.php:274
+msgid "div"
+msgstr ""
+
+#: tags/repeater.php:242 tags/repeater.php:273
+msgid "span"
+msgstr ""
+
+#: tags/repeater.php:243
+msgid "p"
+msgstr ""
+
+#: tags/repeater.php:244 tags/repeater.php:267
+msgid "h1"
+msgstr ""
+
+#: tags/repeater.php:245 tags/repeater.php:268
+msgid "h2"
+msgstr ""
+
+#: tags/repeater.php:246 tags/repeater.php:269
+msgid "h3"
+msgstr ""
+
+#: tags/repeater.php:247 tags/repeater.php:270
+msgid "h4"
+msgstr ""
+
+#: tags/repeater.php:248 tags/repeater.php:271
+msgid "h5"
+msgstr ""
+
+#: tags/repeater.php:249 tags/repeater.php:272
+msgid "h6"
+msgstr ""
+
+#: tags/repeater.php:250
+msgid "ul"
+msgstr ""
+
+#: tags/repeater.php:251
+msgid "ol"
+msgstr ""
+
+#: tags/repeater.php:252
+msgid "table"
+msgstr ""
+
+#: tags/repeater.php:253
+msgid "toggle"
+msgstr ""
+
+#: tags/repeater.php:263
+msgid "Title Tag"
+msgstr ""
+
+#: tags/shortcode.php:47 tags/shortcode.php:92
+msgid "Shortcode"
+msgstr ""
+
+#: tags/shortcode.php:94
+msgid "[your-shortcode]"
+msgstr ""
+
+#: tags/user-meta.php:53 tags/user-meta.php:126
+msgid "User Meta"
+msgstr ""
+
+#: tags/user-meta.php:124
+msgid "Nicename"
+msgstr ""
