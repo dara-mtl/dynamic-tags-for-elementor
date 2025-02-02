@@ -92,6 +92,6 @@ class Post_URL extends Data_Tag {
 	 * @return string URL of the current post.
 	 */
 	public function get_value( array $options = [] ) {
-		return get_permalink();
+		return esc_url( get_permalink() );
 	}
 }

@@ -67,7 +67,6 @@ class Post_Date extends \Elementor\Core\DynamicTags\Tag {
 	 * @return void
 	 */
 	public function render() {
-		$date = get_the_date();
-		echo wp_kses_post( $date );
+		echo wp_kses_post( get_the_date() );
 	}
 }

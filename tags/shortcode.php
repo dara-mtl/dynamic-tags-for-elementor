@@ -113,8 +113,7 @@ class Shortcode extends \Elementor\Core\DynamicTags\Tag {
 
 		$shortcode_string = $settings['shortcode'];
 		$value            = do_shortcode( $shortcode_string );
-		$value            = wp_kses_post( $value );
 
-		echo $value; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- $value is sanitized with wp_kses_post() before output.
+		echo wp_kses_post( $value );
 	}
 }

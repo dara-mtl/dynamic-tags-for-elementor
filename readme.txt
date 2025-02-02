@@ -1,21 +1,17 @@
 === Better Dynamic Tags for Elementor ===
-Contributor: [WP Smart Widgets](https://wpsmartwidgets.com)
+Contributor: https://wpsmartwidgets.com
+Donate link: https://wpsmartwidgets.com/donate/
 Tags: elementor dynamic tags, elementor plugin, dynamic content, repeater fields, post dynamic tags, custom field tags, Elementor enhancements
-Stable tag: 1.0.0
-Requires at least: 5.9
-Tested up to: 6.7.1
-Requires PHP: 5.4
+Stable tag: 1.0.1
+Tested up to: 6.7
 License: GPLv3 or later
-License URI: [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html)
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Dynamic Tags for Elementor. Compatible with classic WordPress meta, as well as custom fields from popular plugins like ACF, CMB2, or Pods.
 
 == Description ==
-Dynamic Tags for Elementor. Compatible with classic WordPress meta, as well as custom fields from popular plugins like ACF, CMB2, or Pods.
 
-### Dynamic Group Key Features:
-- **Multi-Tag Integration:** Employ more than one dynamic tag within a single widget's content.
-- **Versatile Tag Utilization:** Add multiple dynamic tags as content, data attributes, classes, or IDs within the widget.
+Dynamic Tags for Elementor. Compatible with classic WordPress meta, as well as custom fields from popular plugins like ACF, CMB2, or Pods.
 
 ## Available Dynamic Tags:
 1.  **Custom Field**: Displays the meta value from user, author, post, taxonomy, or theme options.
@@ -33,8 +29,9 @@ Dynamic Tags for Elementor. Compatible with classic WordPress meta, as well as c
 13. **User Meta**: Retrieves and displays user meta information for the current user or a specified user.
 
 == Changelog ==
-= 1.0.0 =
-* Initial release of the Better Dynamic Tags for Elementor.
 
-## License
-This plugin is licensed under the [GPLv3 or later](https://www.gnu.org/licenses/gpl-3.0.html) license.
+### 1.0.0
+Initial Release.
+
+### Version 1.0.1 - 2025-02-02
+- Enhanced handling of shortcodes, post content, post date, and post URL tags to ensure proper output and formatting.

@@ -293,8 +293,6 @@ class Custom_Field extends Tag {
 			}
 		}
 
-		$value = wp_kses_post( $value );
-
-		echo ( 'yes' === $need_autop ) ? wpautop( $value ) : $value; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- $value is sanitized with wp_kses_post() before output.
+		echo ( 'yes' === $need_autop ) ? wp_kses_post( wpautop( $value ) ) : wp_kses_post( $value );
 	}
 }

@@ -169,21 +169,6 @@ class Pages_URL extends Tag {
 	}
 
 	/**
-	 * Get dynamic tag value.
-	 *
-	 * Return the value of the dynamic tag based on the settings.
-	 *
-	 * @since 1.0.0
-	 * @access public
-	 *
-	 * @param array $options Optional. Additional options.
-	 * @return string Dynamic tag value.
-	 */
-	public function get_value( array $options = [] ) {
-		return $this->get_page_url();
-	}
-
-	/**
 	 * Render the dynamic tag.
 	 *
 	 * Output the value of the dynamic tag.
@@ -192,6 +177,6 @@ class Pages_URL extends Tag {
 	 * @access public
 	 */
 	public function render() {
-		echo esc_url_raw( $this->get_page_url() );
+		echo esc_url( $this->get_page_url() );
 	}
 }
